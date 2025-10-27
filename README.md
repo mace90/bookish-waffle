@@ -34,6 +34,9 @@ Pythondf_selected = df[df["Country"].isin(["Germany", "France"])]
 Oder die Karte auf die ganze Welt erweitern:
 Pythongeo = dict(scope="world", ...)
 
+<img width="1487" height="801" alt="Bildschirmfoto 2025-10-27 um 14 45 50" src="https://github.com/user-attachments/assets/46c7c4fc-1e77-4040-a7d6-6f95f528b796" />
+
+
 📁 Datenquelle
 
 https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
